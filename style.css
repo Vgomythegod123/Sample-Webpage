@@ -1,0 +1,14 @@
+h1{
+background-color: firebrick;
+font-family: 'Bungee Spice',fantasy;
+}
+
+body{
+background-color: gold;
+}
+
+img{
+height: 200px;
+width: 200px;
+border-radius: 360px;
+}
